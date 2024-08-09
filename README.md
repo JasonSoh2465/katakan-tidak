@@ -1,0 +1,2 @@
+# katakan-tidak
+static files
